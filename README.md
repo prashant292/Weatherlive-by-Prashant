@@ -1,10 +1,13 @@
-# Ventusky
-Ventusky is the City Weather Application in JavaScript. 
+#WeatherLive
+Description-- • Build a Weather Application using Country State City API and OpenWeatherMap API .
+Deployed on Github-pages
+• It’s feature includes Dynamically Country, State, and City Dropdown List using
+Javascript fetch API,City Weather Information and Toggle Temperature unit Celsius and
+Fahrenheit.
 
-• Build a Weather Application using Country State City API and OpenWeatherMap API. 
+Tech Used--HTML5, CSS3, JavaScript
 
-• Its feature includes Dynamically Country, State, and City Dropdown List using Javascript fetch API, City Weather Information, and Toggle Temperature unit Celsius and Fahrenheit.
-
+Website Link-- https://wheatherlive.netlify.app/
 Tech used :
 - JavaScript fundamental
 - HTML5 with Bootstrap CSS 
@@ -13,4 +16,4 @@ Tech used :
 - JavaScript Fetch API
 - Async/Await keywords
 
-Visit Website : https://alakhdeepsingh.github.io/Ventusky/
+
